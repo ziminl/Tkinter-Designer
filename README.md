@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/github/stars/ParthJadhav/Tkinter-Designer">
 </p>
 
-<p align="center">
-<a href="https://www.producthunt.com/posts/tkinter-designer?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tkinter&#0045;designer" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=312995&theme=neutral" alt="Tkinter&#0032;Designer - No&#0045;code&#0032;solution&#0032;for&#0032;Python&#0032;GUI&#0039;s | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-</p>
-  <br>
 
 ## Translations
 
