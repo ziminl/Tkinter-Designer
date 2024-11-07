@@ -117,25 +117,4 @@ beneficial for other people!
 
 (See: [Contact Me](#-contact-me)) or use [Show and Tell](https://github.com/ParthJadhav/Tkinter-Designer/discussions/categories/show-and-tell) section in Discussions.
 
-## 📄 License
-<!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-Tkinter Designer is licensed under the BSD 3-Clause "New" or "Revised" License.  
-[View Here.](https://github.com/ParthJadhav/Tkinter-Designer/blob/master/LICENSE)
-
-| Permissions | Restrictions | Conditions
-| --- | --- | ---
-&check; Commercial Use | &times; Liability | &#x1f6c8; License and Copyright Notice
-&check; Modification   | &times; Warranty
-&check; Distribution  
-&check; Private Use
-
-## Contribute
-
-All contributions from the open-source community, individuals, and partners are welcomed. Our achievement is a result of your active participation.
-
-[Contributing guidelines](docs/CONTRIBUTING.md)
-
-[Code of conduct](CODE_OF_CONDUCT.md)
-
-[LEARN.md](LEARN.md)
