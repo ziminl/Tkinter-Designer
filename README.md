@@ -5,15 +5,6 @@
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/42001064/120057695-b1f6c680-c062-11eb-96d5-2c43d05f9018.png" alt="logo">
   <h1 align="center" style="margin: 0 auto 0 auto;">Tkinter Designer</h1>
-  <h4 align="center" style="margin: 0 auto 0 auto;">Drag & Drop GUI Creator</h4>
-
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/ParthJadhav/Tkinter-Designer">
-  <img src="https://img.shields.io/github/contributors/ParthJadhav/Tkinter-Designer">
-  <img src="https://img.shields.io/github/issues/ParthJadhav/Tkinter-Designer?label=issues">
-  <img src="https://img.shields.io/github/stars/ParthJadhav/Tkinter-Designer">
-</p>
 
 
 
