@@ -1,4 +1,6 @@
-
+> cd Tkinter-Designer/gui
+  
+> python gui.py
 
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/42001064/120057695-b1f6c680-c062-11eb-96d5-2c43d05f9018.png" alt="logo">
@@ -13,10 +15,6 @@
   <img src="https://img.shields.io/github/stars/ParthJadhav/Tkinter-Designer">
 </p>
 
-
-> cd Tkinter-Designer/gui
-  
-> python gui.py
 
 
 
