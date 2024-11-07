@@ -54,13 +54,6 @@ View the YouTube video or read the instructions below.
 <a href="/docs/instructions.md" target="_blank"><img src="https://user-images.githubusercontent.com/42001064/196041925-64f81f75-8bee-42ac-a234-a93339bc8cdc.png" alt="Instructions" width="180px" ></a>
 <a href="https://www.youtube.com/watch?v=Qd-jJjduWeQ" target="_blank"><img src="https://user-images.githubusercontent.com/42001064/196041927-c94c1a94-c708-44a4-9c81-df83bac686d4.png" alt="Youtube Tutorial" width="180px" ></a>
 
-## 🦋 Supporting Tkinter Designer
-
-Consider making a donation to the Tkinter Designer project if you or your business have benefited from it. This will accelerate Tkinter Designer's development! Making coffee is simple; I'll be happy to enjoy one.
-
-<a href="https://www.buymeacoffee.com/Parthjadhav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="180" ></a>
-<a href="https://paypal.me/parthJadhav22?country.x=IN&locale.x=en_GB" target="_blank"><img src="https://user-images.githubusercontent.com/42001064/196043185-ebd61195-44ee-480f-9b76-f5eb7cfcaf55.png" alt="Paypal" width="180" ></a>
-
 
 ## 🔵 Discord server & Linkedin
 
