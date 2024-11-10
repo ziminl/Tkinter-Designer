@@ -2,6 +2,8 @@
   
 > python gui.py
 
+https://github.com/ziminl/Tkinter-Designer/blob/master/docs/instructions.md
+
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/42001064/120057695-b1f6c680-c062-11eb-96d5-2c43d05f9018.png" alt="logo">
   <h1 align="center" style="margin: 0 auto 0 auto;">Tkinter Designer</h1>
